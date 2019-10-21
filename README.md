@@ -37,3 +37,4 @@ Startbootstrap-sb-admin-2 | [blackrockDigital/startbootstrap-sb-admin-2](https:/
 Tabler | [tabler/tabler](https://github.com/tabler/tabler) | _bootstrap_ _bootstrap4_ _ui-kit_
 Vue Paper Dashboard | [cristijora/vue-paper-dashboard](https://goo.gl/Fbyjs6) | _vuejs_
 CoolAdmin Dashboard | [CoolAdmin for colorlib](https://github.com/puikinsh/CoolAdmin) | _bootstrap_
+Vue Element Admin | [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) | _vuejs_
